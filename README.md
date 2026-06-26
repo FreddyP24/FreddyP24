@@ -1,49 +1,77 @@
 # Hola, soy Freddy Pérez 👋
 
-Soy estudiante avanzado de Informática Empresarial en la Universidad de Costa Rica, con interés en el desarrollo de software, especialmente en el área backend, APIs REST, bases de datos y sistemas web orientados a resolver necesidades reales.
+**Backend Developer** con enfoque en el desarrollo de APIs REST, bases de datos y sistemas web orientados a la gestión de información y apoyo a procesos empresariales.
+
+Cuento con experiencia práctica en proyectos académicos y con cliente real, trabajando principalmente en desarrollo backend, conexión con bases de datos, pruebas de endpoints e integración con frontend.
+
+---
 
 ## Sobre mí
 
-* Estudiante de Informática Empresarial en la Universidad de Costa Rica.
-* Interés principal en desarrollo backend y bases de datos.
-* Experiencia académica en desarrollo de APIs REST e integración frontend-backend.
-* Disposición para aprender, adaptarme y contribuir en equipos de trabajo.
+* Enfoque principal en desarrollo backend, APIs REST y bases de datos.
+* Experiencia práctica en sistemas administrativos, contables, inventario, ventas y gestión de boletos.
+* Formación en Informática Empresarial en la Universidad de Costa Rica.
+* Interés en crear soluciones funcionales, ordenadas y orientadas a necesidades reales del negocio.
+* Actualmente en búsqueda de una oportunidad de práctica laboral donde pueda aportar y seguir creciendo profesionalmente.
+
+---
 
 ## Tecnologías y herramientas
 
 **Lenguajes:** C#, JavaScript, Java, Python
-**Frameworks y librerías:** ASP.NET Core, React
+
+**Backend & APIs:** ASP.NET Core, APIs REST, Entity Framework Core, SQLAlchemy
+
+**Frontend:** React, JavaScript
+
 **Bases de datos:** SQL Server, MySQL, MongoDB
-**Herramientas:** Git, GitHub, Swagger, Postman, Docker, Visual Studio, Visual Studio Code
+
+**Herramientas:** Git, GitHub, Swagger, Postman, Docker, Alembic, Visual Studio, Visual Studio Code
+
+---
 
 ## Proyectos destacados
 
 ### Sistema Web Contable
 
-Sistema web desarrollado para un cliente real, orientado al apoyo administrativo y financiero.
+Sistema web administrativo desarrollado para un cliente real, orientado a la gestión de clientes, ingresos, gastos y reportes financieros.
 
-**Participación principal:**
+**Aporte principal:**
 
 * Desarrollo backend mediante APIs REST.
 * Conexión con base de datos SQL Server.
 * Pruebas de endpoints con Swagger y Postman.
 * Integración con frontend desarrollado en React.
 
-**Tecnologías:** C#, ASP.NET Core, React, JavaScript, SQL Server, Entity Framework Core, Git y GitHub.
+**Tecnologías:** C#, ASP.NET Core, React, JavaScript, SQL Server, Entity Framework Core, Swagger, Postman, Git y GitHub.
+
+---
 
 ### ZyBus
 
-Sistema de gestión y ventas de boletos desarrollado como proyecto académico.
+Sistema académico para la gestión y venta de boletos de autobús, con funcionalidades relacionadas con rutas, horarios, paradas y operaciones del backend.
 
-**Participación principal:**
+**Aporte principal:**
 
-* Desarrollo backend con Python.
-* Implementación de funcionalidades CRUD.
-* Manejo de validaciones, permisos y migraciones.
+* Implementación de funcionalidades backend con Python.
+* Desarrollo de operaciones CRUD.
+* Manejo de validaciones, permisos y migraciones de base de datos.
 * Documentación técnica de módulos desarrollados.
 
 **Tecnologías:** Python, SQLAlchemy, Docker, Alembic, Git, GitHub y bases de datos relacionales.
 
-## Actualmente
+---
 
-Estoy fortaleciendo mi perfil profesional y buscando una oportunidad para realizar mi práctica laboral en una empresa donde pueda aprender, aportar y crecer dentro del área de desarrollo de software.
+### Mini Super Bonilla
+
+Sistema web para la gestión de inventario, productos, compras, ventas, proveedores y reportes de un pequeño negocio.
+
+**Aporte principal:**
+
+* Desarrollo de módulos backend.
+* Creación de modelos, controladores y endpoints REST.
+* Conexión con base de datos SQL Server.
+* Pruebas de funcionalidades del sistema.
+
+**Tecnologías:** C#, ASP.NET Core, SQL Server, Entity Framework Core, Swagger, Postman, Git y GitHub.
+
